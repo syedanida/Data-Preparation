@@ -55,5 +55,5 @@ The **Time Series EDA** notebook demonstrates the process of analyzing time-base
 
 For a detailed walkthrough of how to use these notebooks, including explanations of key concepts and techniques, watch the video tutorial below.
 
-[**Watch the Video Tutorial**](#)
+https://youtu.be/2Q_gFiL1r-E
 
